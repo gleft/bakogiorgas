@@ -8,11 +8,8 @@
  <script>
 //marker locations with address
 var markers = [
-      ['gipedo panaxaikis', 38.261738,21.745615],
-      ['lidl', 38.263246,21.743383],
-      ['pl. georgiou', 38.246244,21.735058],
-      ['pl. olgas', 38.249172,21.737512],
-      ['karabi', 38.255474,21.736793]
+      ['ergostasio', 37.054023, 22.036974],
+      
     ];
 var map;
 
